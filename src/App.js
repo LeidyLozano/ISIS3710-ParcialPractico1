@@ -19,9 +19,7 @@ class App extends Component {
         };
         return (
           <div style={myStyle}>
-
                 <LoginCard />
-
           </div>
         );
     }
